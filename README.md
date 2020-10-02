@@ -6,4 +6,9 @@
     <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
  </abc>
 </h3> 
-### My personal blog: (https://nikywe.cloudns.cl)
+
+<body> 
+<p> This is my personal blog 
+<a href = "https://nikywe.cloudns.cl" target="_blank">Nikywe blog</a> 
+</p> 
+</body> 
